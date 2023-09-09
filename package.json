@@ -22,5 +22,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "webpack serve --config webpack.dev.config.ts"
   }
 }

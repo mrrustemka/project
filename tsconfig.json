@@ -9,6 +9,6 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true
   },
-  "include": ["src"],
+  "include": ["src", "webpack.dev.config.ts"],
   "exclude": ["node_modules", "dist"]
 }
